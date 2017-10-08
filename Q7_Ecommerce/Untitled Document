@@ -1,0 +1,4 @@
+Customer(Strong)- primary key-idcustomer
+order(weak)- primary key-idorder
+items(weak)-Primary key-iditem
+-supplier(strong)- primary key-idsupplier
