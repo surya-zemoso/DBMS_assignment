@@ -1,0 +1,3 @@
+Customer(weak)- primary key- idcustomer
+account(strong)- primary key- idaccount
+branch(strong)- primary key- idbranch
