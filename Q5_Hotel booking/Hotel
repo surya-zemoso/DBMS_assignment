@@ -1,0 +1,2 @@
+Customer(strong entity)- primary key- idCustomer
+Hotel(strong entity) - primary key- idHotel
